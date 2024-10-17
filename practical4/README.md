@@ -1,13 +1,14 @@
-#Practical 4
-This folder contains practical 4 code.
+# Practical 4
+
+The folder contains practical 4 codes.
 
 ## Compile
 
-gcc TrapArr.c -o TrapArr -lm
+*gcc TrapArr.c -o TrapArr -lm
 
 ## Execute
 
-./TrapArr
+* ./TrapArr
 
 TanArr[0] = 0.000000
 TanArr[1] = 0.087489
